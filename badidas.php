@@ -93,7 +93,7 @@ while($row = $result->fetch_array()){
                         <!-- end normal -->
                         <div class="quick-view">
                            <a href="single.php?id=<?php echo $row['product_id'];?>"> Quick view </a>
-                        </div></div><br>
+                        </div></div>
                         <?php }?>
                         <?php include "include/menu.php";?>
                     </div>
