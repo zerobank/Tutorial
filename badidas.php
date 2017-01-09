@@ -58,7 +58,7 @@ if ($_SESSION){
             <div class="container">
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a></li>
-                    <li class="active">PRODUCTS</li><br><br>
+                    <li class="active">PRODUCTS</li><br><br>><br>
                 </ol>
             </div>
         </div>
