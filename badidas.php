@@ -100,6 +100,6 @@ while($row = $result->fetch_array()){
              
             </div> 
         </div>
-        <?php include "include/footer.php";?>
+        <?php include "include/footer.php";?><br>
     </body>
 </html>
