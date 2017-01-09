@@ -37,7 +37,7 @@ if ($_SESSION){
 			<script src="js/bootstrap.min.js"></script>
 		<!--script-->
          <!-- FlexSlider -->
-            <script src="js/imagezoom.js"></script>
+            <script src="js/imagezoom.js"></script><br>
               <script defer src="js/jquery.flexslider.js"></script>
             <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 
@@ -58,7 +58,7 @@ if ($_SESSION){
             <div class="container">
                 <ol class="breadcrumb">
                     <li><a href="index.php">Home</a></li>
-                    <li class="active">PRODUCTS</li>
+                    <li class="active">PRODUCTS</li><br><br>
                 </ol>
             </div>
         </div>
